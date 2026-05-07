@@ -1,0 +1,56 @@
+:root {
+  --bg: #f4f7fb;
+  --card: #ffffff;
+  --border: #d9e2ec;
+  --text: #212529;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+main {
+  min-height: 70vh;
+}
+
+.card {
+  border: 1px solid var(--border);
+}
+
+.card-title {
+  font-size: 1.25rem;
+}
+
+#loading-text {
+  font-size: 1rem;
+}
+
+#error-message {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.article-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.article-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+}
+
+footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+@media (max-width: 576px) {
+  .display-6 {
+    font-size: 2rem;
+  }
+}
