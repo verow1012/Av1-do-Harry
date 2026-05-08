@@ -1,5 +1,5 @@
 // URL da API pública do Wikipedia usada para buscar artigos sobre tênis de mesa.
-const apiUrl = 'https://en.wikipedia.org/w/api.php?action=query&format=json&list=search&srsearch=table%20tennis%20player&utf8=&origin=*';
+const apiUrl = 'https://pt.wikipedia.org/w/api.php?action=query&format=json&list=search&srsearch=tênis%20de%20mesa&utf8=&origin=*';
 
 // Elementos HTML que vamos usar para mostrar estado, erro e cards.
 const loadingElement = document.getElementById('loading');

@@ -45,7 +45,7 @@ async function fetchDetail() {
     return;
   }
 
-  const apiDetailUrl = `https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext=true&pageids=${pageId}&utf8=&origin=*`;
+  const apiDetailUrl = `https://pt.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext=true&pageids=${pageId}&utf8=&origin=*`;
 
   try {
     const response = await fetch(apiDetailUrl);

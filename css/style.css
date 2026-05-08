@@ -1,8 +1,11 @@
 :root {
-  --bg: #f4f7fb;
+  --bg: #e8f5e8;
   --card: #ffffff;
-  --border: #d9e2ec;
-  --text: #212529;
+  --border: #c8e6c9;
+  --text: #2e7d32;
+  --primary: #4caf50;
+  --secondary: #81c784;
+  --accent: #388e3c;
 }
 
 body {
@@ -11,8 +14,21 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.navbar {
+  background-color: var(--primary) !important;
+}
+
 .navbar-brand {
   font-weight: 700;
+  color: white !important;
+}
+
+.nav-link {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.nav-link:hover {
+  color: white !important;
 }
 
 main {
@@ -21,10 +37,23 @@ main {
 
 .card {
   border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .card-title {
   font-size: 1.25rem;
+  color: var(--accent);
+}
+
+.btn-primary {
+  background-color: var(--primary);
+  border-color: var(--primary);
+}
+
+.btn-primary:hover {
+  background-color: var(--accent);
+  border-color: var(--accent);
 }
 
 #loading-text {
@@ -46,11 +75,41 @@ main {
 }
 
 footer {
+  background-color: var(--primary);
+  color: white;
   border-top: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.player-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.player-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.player-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid var(--primary);
+}
+
+.brand-logo {
+  max-width: 150px;
+  max-height: 100px;
+  object-fit: contain;
 }
 
 @media (max-width: 576px) {
   .display-6 {
     font-size: 2rem;
+  }
+
+  .player-img {
+    width: 80px;
+    height: 80px;
   }
 }
