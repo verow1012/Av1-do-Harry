@@ -1,0 +1,12 @@
+{
+  "name": "ping-pong-historico-api",
+  "version": "1.0.0",
+  "description": "Site histórico de tênis de mesa com API local de atletas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

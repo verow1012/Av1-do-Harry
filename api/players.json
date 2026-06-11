@@ -1,0 +1,152 @@
+[
+  {
+    "id": "jan-ove-waldner",
+    "name": "Jan-Ove Waldner",
+    "country": "Suécia",
+    "rank": 1,
+    "cardImage": "https://via.placeholder.com/100x100?text=Jan-Ove",
+    "profileImage": "https://via.placeholder.com/250x250?text=Jan-Ove+Waldner",
+    "summary": "O Mozart do tênis de mesa, com ouro olímpico e dois títulos mundiais.",
+    "description": "Jan-Ove Waldner é um ícone do tênis de mesa e para muitos o melhor jogador da história. Sua visão de jogo e técnica fizeram dele o primeiro jogador europeu a derrotar consistentemente os grandes nomes chineses.",
+    "titles": [
+      "Ouro olímpico em Atlanta 1996",
+      "Campeão mundial individual em 1989 e 1997",
+      "Campeão europeu múltiplas vezes"
+    ]
+  },
+  {
+    "id": "ma-long",
+    "name": "Ma Long",
+    "country": "China",
+    "rank": 2,
+    "cardImage": "https://via.placeholder.com/100x100?text=Ma+Long",
+    "profileImage": "https://via.placeholder.com/250x250?text=Ma+Long",
+    "summary": "Três vezes campeão mundial e bicampeão olímpico individual.",
+    "description": "Ma Long é considerado o maior jogador de tênis de mesa da era moderna. Domina com técnica, velocidade e consistência, ganhando títulos em uma época de extrema concorrência.",
+    "titles": [
+      "Campeão olímpico individual em 2016 e 2020",
+      "Campeão mundial individual em 2015, 2017 e 2019",
+      "Campeão da Copa do Mundo e líder da equipe chinesa"
+    ]
+  },
+  {
+    "id": "wang-liqin",
+    "name": "Wang Liqin",
+    "country": "China",
+    "rank": 3,
+    "cardImage": "https://via.placeholder.com/100x100?text=Wang+Liqin",
+    "profileImage": "https://via.placeholder.com/250x250?text=Wang+Liqin",
+    "summary": "Três vezes campeão mundial e força dominante no início dos anos 2000.",
+    "description": "Wang Liqin foi um dos jogadores mais poderosos e completos de sua geração. Seu jogo agressivo de forehand e tremenda experiência o tornaram um campeão mundial repetido.",
+    "titles": [
+      "Campeão mundial individual em 2001, 2005 e 2007",
+      "Tricampeão da Copa do Mundo",
+      "Medalhista por equipe em Mundiais e Olimpíadas"
+    ]
+  },
+  {
+    "id": "ding-ning",
+    "name": "Ding Ning",
+    "country": "China",
+    "rank": 4,
+    "cardImage": "https://via.placeholder.com/100x100?text=Ding+Ning",
+    "profileImage": "https://via.placeholder.com/250x250?text=Ding+Ning",
+    "summary": "Três vezes campeã mundial e ouro olímpico em simples.",
+    "description": "Ding Ning foi a rainha do tênis de mesa feminino na década de 2010. Sua readaptação tática e mentalidade vencedora garantiram a ela medalhas olímpicas e mundiais.",
+    "titles": [
+      "Ouro olímpico em Londres 2012",
+      "Campeã mundial individual em 2011, 2015 e 2017",
+      "Campeã da Copa do Mundo"
+    ]
+  },
+  {
+    "id": "zhang-yining",
+    "name": "Zhang Yining",
+    "country": "China",
+    "rank": 5,
+    "cardImage": "https://via.placeholder.com/100x100?text=Zhang+Yining",
+    "profileImage": "https://via.placeholder.com/250x250?text=Zhang+Yining",
+    "summary": "Quatro vezes campeã olímpica e múltiplos títulos mundiais.",
+    "description": "Zhang Yining dominou o tênis de mesa feminino com duplo equilíbrio de agressividade e controle. Sua carreira a colocou entre as melhores de todos os tempos.",
+    "titles": [
+      "Quatro medalhas de ouro olímpicas",
+      "Campeã mundial individual em 2005 e 2007",
+      "Campeã da Copa do Mundo"
+    ]
+  },
+  {
+    "id": "kong-linghui",
+    "name": "Kong Linghui",
+    "country": "China",
+    "rank": 6,
+    "cardImage": "https://via.placeholder.com/100x100?text=Kong+Linghui",
+    "profileImage": "https://via.placeholder.com/250x250?text=Kong+Linghui",
+    "summary": "Pioneiro do Grand Slam, com ouro olímpico e campeonatos mundiais.",
+    "description": "Kong Linghui foi um dos primeiros homens a conquistar o Grand Slam (Olimpíadas, Mundial e Copa do Mundo). Sua carreira é referência em consistência e técnica.",
+    "titles": [
+      "Ouro olímpico em Atlanta 1996",
+      "Campeão mundial individual em 1995 e 2001",
+      "Campeão da Copa do Mundo"
+    ]
+  },
+  {
+    "id": "liu-guoliang",
+    "name": "Liu Guoliang",
+    "country": "China",
+    "rank": 7,
+    "cardImage": "https://via.placeholder.com/100x100?text=Liu+Guoliang",
+    "profileImage": "https://via.placeholder.com/250x250?text=Liu+Guoliang",
+    "summary": "Campeão olímpico e mundial, também técnico campeão do time chinês.",
+    "description": "Liu Guoliang foi um grande jogador e depois treinador campeão. Sua carreira ganhou medalhas olímpicas e mundiais antes de assumir a equipe nacional chinesa.",
+    "titles": [
+      "Ouro olímpico em Atlanta 1996",
+      "Campeão mundial individual em 1997 e 1999",
+      "Técnico campeão olímpico e mundial com a China"
+    ]
+  },
+  {
+    "id": "deng-yaping",
+    "name": "Deng Yaping",
+    "country": "China",
+    "rank": 8,
+    "cardImage": "https://via.placeholder.com/100x100?text=Deng+Yaping",
+    "profileImage": "https://via.placeholder.com/250x250?text=Deng+Yaping",
+    "summary": "Quatro vezes campeã olímpica e dominou o tênis de mesa feminino nos anos 90.",
+    "description": "Deng Yaping é uma das maiores jogadoras da história. Ela dominou o tênis de mesa feminino no começo dos anos 90 com títulos olímpicos e mundiais.",
+    "titles": [
+      "Ouro olímpico em Barcelona 1992 e Atlanta 1996",
+      "Campeã mundial individual em 1991, 1995 e 1997",
+      "Campeã da Copa do Mundo"
+    ]
+  },
+  {
+    "id": "timo-boll",
+    "name": "Timo Boll",
+    "country": "Alemanha",
+    "rank": 9,
+    "cardImage": "https://via.placeholder.com/100x100?text=Timo+Boll",
+    "profileImage": "https://via.placeholder.com/250x250?text=Timo+Boll",
+    "summary": "Maior nome europeu, com vários títulos europeus e pódios mundiais.",
+    "description": "Timo Boll é o maior jogador europeu das últimas décadas. Seu estilo técnico e criativo o manteve no topo do esporte por muito tempo.",
+    "titles": [
+      "Múltiplos campeonatos europeus",
+      "Medalhista olímpico por equipes",
+      "Várias medalhas em etapas do circuito mundial"
+    ]
+  },
+  {
+    "id": "chen-jing",
+    "name": "Chen Jing",
+    "country": "China/Taiwan",
+    "rank": 10,
+    "cardImage": "https://via.placeholder.com/100x100?text=Chen+Jing",
+    "profileImage": "https://via.placeholder.com/250x250?text=Chen+Jing",
+    "summary": "Ouro olímpico em 1988 e ícone de duas gerações do tênis de mesa.",
+    "description": "Chen Jing conquistou medalhas representando a China e depois Taiwan, mostrando talento e longevidade mundial no tênis de mesa.",
+    "titles": [
+      "Ouro olímpico em Seul 1988 pela China",
+      "Prata olímpica em Barcelona 1992 por Taiwan",
+      "Medalhista no Mundial e no circuito internacional"
+    ]
+  }
+]
